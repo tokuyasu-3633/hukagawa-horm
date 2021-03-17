@@ -2,7 +2,7 @@
   <div class="home">
     <header>
       <div class="logo">
-        <img src="../assets/IMG_0674-0000.jpg">
+        <img src="../assets/IMG_0674.GIF">
       </div>
       <div>
 
