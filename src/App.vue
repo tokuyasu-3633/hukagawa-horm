@@ -106,6 +106,13 @@ html {
 
 a {
   text-decoration: none;
+  display: block;
+}
+
+p,h1,li{
+  font-family: serif;
+  font-size: 20px;
+  color: #472b00;
 }
 
 img {
@@ -122,42 +129,18 @@ button{
   padding: 0;
   appearance: none;
 }
-
-
 .flex {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
+  margin: 0 auto;
+  width: 80%;
+  text-align: center;
 }
 
 body {
   color: #333333;
   height: 100%;
 }
-
-.mgb-15 {
-  margin-bottom: 15px;
+.logo{
+  width: 100px;
+  height: 100px;
 }
-
-.common-btn {
-  display: block;
-  width: 130px;
-  height: 40px;
-  line-height: 40px;
-  background: #fff;
-  padding: 0 20px;
-  color: #000;
-  text-align: center;
-}
-
-.section-title {
-  font-size: 40px;
-  line-height: 1;
-}
-
-.section-title span {
-  font-size: 20px;
-}
-
 </style>
